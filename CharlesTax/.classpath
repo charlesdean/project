@@ -44,6 +44,10 @@
 	<classpathentry kind="lib" path="webapp/WEB-INF/lib/struts2-spring-plugin-2.3.20.jar"/>
 	<classpathentry kind="lib" path="webapp/WEB-INF/lib/xwork-core-2.3.20.jar"/>
 	<classpathentry kind="lib" path="webapp/WEB-INF/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/poi-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/poi-ooxml-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/poi-ooxml-schemas-3.14-beta1-20151223.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
 </classpath>
